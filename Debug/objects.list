@@ -1,0 +1,5 @@
+"./Src/interrupt_main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f410rbtx.o"
+"./drivers/src/stm32f401rb_gpio_driver.o"
